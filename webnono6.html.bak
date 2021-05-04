@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>lg.vape</title>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+  	<div id="carte">
+
+<h1> Les résistances / Batterie "accus" : </h1><p> cliques sur les titres pour acceder à la catégorie que tu veux !</p><br>
+<a href="webnono9.html">
+        <h2><span class="encadrer-un-contenu"> Résistances :</span> </h2> 
+        <center> <img style="width: 308px; height: 228px;" src="https://www.evaps.fr/documents/media/images/contenu/a21f33bd30c2cfb04de537cd87b5776f784a7164.jpg">
+        </center>
+        <br>
+      </a>
+      <p> Un gout de cramé ? Moins de vapeur ou de gout ? C'est obligatoirement la résistance ! Il t'en faudra tout au long de ton utilisation afin de profité de ta vape !</p><br>
+
+
+
+      
+<a href="webnono10.html">
+        <h2><span class="encadrer-un-contenu"> Batteries "accus" :</span> </h2> 
+        <center> <img style="width: 308px; height: 228px;" src="https://oneshotmedia.fr/wp-content/uploads/2019/01/les-accus-compressor.jpg">
+        </center>
+        <br>
+      </a>
+      <p> Si tu as une box de 100W ou plus tu dois surement avoir besoins de ces sortes de grosses pilles ! elles permettent une bonne puissance, autonomie, durée de vie.... Mais il peut arriver des pannes, pas de soucis il te suffit d'en acheter des nouvelles et tout refonctionnera comme avant ! Si tu en as marre de patienter que tes accus soit chargé tu peux acheter une deuxieme paire pour que, une fois une paire decharger interchanger les deux et repartir comme si de rien était !</p><br>

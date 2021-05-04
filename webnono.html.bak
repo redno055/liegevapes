@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>lg.vape</title>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+
+    <div id="carte">
+    <h1> Vente de vape Liège </h1>
+    <h2> ACHAT DE VAPES : </h2>
+
+<a href="webnono2.html"> <img src="https://image.freepik.com/vecteurs-libre/vape-shop-element-vecteur_10051-46.jpg"> 
+</a>
+
+    <p> </p>
+    <h2> REGLES :</h2>
+    <p>⚠️Dès 13ans <br>
+      ⚠️Je ne me deplace pas hors de liège </p>
+    <h3> INFO :</h3>
+    <p>Je suis specialisé dans la vente de produit (e-liquide)<br>
+      Mes tarifs sont de 10 euro pour 55ml (c'est à dire 2x moins cher que sur
+      le marché des grandes entreprises)<br>
+      Je varie mon stock selon les meilleures gouts dans la gamme fruité ou
+      frais.</p>
+    <h3> Me contacter :</h3>
+
+    <p>snap =&gt; vape.liege400 </p>
+    <p> instagram =&gt; lg.vape2 &gt;&gt;&gt; lien :
+      https://www.instagram.com/lg.vape2/ </p>
+    <h3> Mon snapcode : </h3>
+    <ul>
+
+      <li> <img style="width: 285px; height: 316px;" src="https://instagram.flgg1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p640x640/178134347_309776623916440_44004413754533649_n.jpg?tp=1&amp;_nc_ht=instagram.flgg1-1.fna.fbcdn.net&amp;_nc_cat=104&amp;_nc_ohc=XPkD7ByduYoAX8vdd5m&amp;edm=AI8ESKwBAAAA&amp;ccb=7-4&amp;oh=2f22d82c5eaf217251d26f6e805a7cd5&amp;oe=60AD1865&amp;_nc_sid=195af5&amp;ig_cache_key=MjU2MTI5ODA4MDg2MTA1NDQ2Ng%3D%3D.2-ccb7-4">
+      </li>
+    </ul>
+    
+  </body>
+</html>

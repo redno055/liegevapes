@@ -1,0 +1,47 @@
+     <!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>lg.vape</title>
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+     <header>
+      <div class="header">
+        <h4><a href="webnono.html">HOME</a></h4>
+        <h4><a href="webnono2.html">SHOP</a></h4>
+      </div>
+    </header>
+    <header>
+      <div class="header">
+
+      <h1> Du nouveaux matos !</h1>
+      <br>
+      <h2> Quel bon plan y a t-il pour une deuxième vape ?</h2>
+      <br>
+      <p> tout d'abord le mieux pour une deuxieme vape c'est de partir sur du 80 à 100W (ATTENTION : ce type de vape nécesite très souvant des accus !) </p>
+      <h2> qu'est ce qu il y a de mieux dans les vapes entre 60 et 80$ ?</h2>
+      <p> voici quelque exemples :</p>
+      <br>
+      <center><img style="width: 163px; height: 215px;" src="https://www.lepetitvapoteur.com/25099-large_default/box-aegis-solo-100w-geek-vape.jpg"> <H1><text-decoration : none ;> ET </text-decoration></H1><img style="width: 163px; height: 215px;" src="https://www.lepetitvapoteur.com/19644-large_default/tank-veco-vaporesso.jpg"></center><br>
+      <h2> PRIX : 80$</h2>
+      <br>
+       <br><center><img style="width: 163px; height: 215px;" src=""> <H1><text-decoration : none ;> ET </text-decoration></H1><img style="width: 163px; height: 215px;" src=""></center><br>
+      <h2> PRIX : $</h2>
+      <br> 
+      <img src=""><br>
+      <h3> </h3>
+      <h5> si tu souhaites un autre type de vape fais attention car beaucoup de
+        modeles aux prix parfois très atractif peuvent êtres des produits de
+        mauvaise qualité ou des machines beaucoup trop veilles(on ne trv plus de
+        resistances etc) </h5>
+      <h2> Comment commandé ? </h2>
+      <br>
+      <h3>Viens sur un de mes reseaux et passe commandes en privé. </h3>
+      <br>
+      <h3> Pour retrouver mes résaux clique </h3>
+      <h1><a href="webnono.html">ICI !</a> </h1>
+    </div>
+  </body>
+</html>

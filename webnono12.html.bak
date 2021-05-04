@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>lg.vape</title>
+     <link rel="shortcut icon" href="img/favicon.ico"/>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <header>
+   
+    
+    <div class="header">
+  <h4><a href=webnono.html>HOME</a></h4> <h4><a href=webnono2.html>SHOP</a></h4>
+
+</div>
+
+
+  </header>
+  <body>
+    
+    <div id="carte">
+  		<h1> Partir sur de bonnes bases :</h1> <br>
+  		<h2> Quel type de vape ai-je besoins ?</h2> <br> <p> tout depend ce que tu veux ! Generalement selon ton utilisation nous savons t'orianter vers quelque bonne bases.<br></p>
+  		<h2> comment est ce que je choisi le model de ma vape ?</h2> <p> voici quelque exemple :</p>
+      <br><img src= "img/veco_one_plus_kit_765_1800x1800.jpg"><br><h3> PRIX : 50$</h3>
+      <br><img src= "https://www.lepetitvapoteur.com/23858-large_default/kit-q16-justfog.jpg"><br><h3> PRIX :30$</h3>
+      <br><img src= ""><br><h3> </h3>
+      <p> si tu souhaites un autre type de vape fais attention car beaucoup de modele aux prix parfois tres atractif peuvent etres des produit de mauvaise qualité ou des machines beaucoup trop veilles(on ne trv plus de resistances etc)
+
+  		<h2> Comment commandé ? </h2> <br>
+      
+      <h3>Viens sur un de mes reseaux et passe commandes en privé. </h3><br>
+     <h3> Pour retrouver mes résaux clique </h3> <h1><a href="webnono.html">ICI !</a> </h1>
+
+
+
+
+
+
+
+
+
+
+
+  		  </div>
+  </body>
+</html>

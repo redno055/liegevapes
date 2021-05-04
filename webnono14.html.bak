@@ -1,0 +1,53 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>lg.vape</title>
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+     <header>
+      <div class="header">
+        <h4><a href="webnono.html">HOME</a></h4>
+        <h4><a href="webnono2.html">SHOP</a></h4>
+      </div>
+    </header>
+
+      <h1> Du tres gros matos !</h1>
+      <br>
+      <h2> Qu'est ce qu'il y a dans le haut de gamme ? ?</h2>
+      <br>
+      <p> tout d'abord dans cette categorie le prix dépasse souvent les 100 à 150euro </p>
+      <h2> qu'est ce qu il y a dans cette catégorie ?</h2>
+      <p> voici quelque exemples : reconstructible(commandable) box200W (celon la marque c'est commandable) et encore plein d'autres...</p>
+      <br>
+      
+      <br>
+       <br><center><img style="width: 163px; height: 215px;" src="https://www.evaps.fr/documents/media/images/contenu/box-aegis-x-geekvape.jpg"></center>
+      <h2> PRIX : 60$</h2>
+      <br> 
+      <br><center><img style="width: 163px; height: 215px;" src="https://www.smok-it.com/12707-large_default/box-aegis-legend-200w-geekvape.jpg"></center>
+      <h2> PRIX : 65$</h2>
+      <br> 
+      <br><center><img style="width: 163px; height: 215px;" src="https://www.evaps.fr/documents/media/images/contenu/subohm-tank-geekvape.jpg"></center>
+      <h2> PRIX : 45$</h2>
+      <br>
+       <br><center><img style="width: 163px; height: 215px;" src="https://cdn.shopify.com/s/files/1/0249/3179/4992/products/Untitled-1_a08a2d39-08fd-4614-af1c-ad2262c7b975_1024x1024.jpg?v=1563242319"></center>
+      <h2> PRIX : 40$</h2>
+      <br>
+       <br><center><img style="width: 163px; height: 215px;" src="https://www.evaps.fr/documents/media/images/contenu/achat-drag-max-voopoo.jpg"></center>
+      <h2> PRIX : 75$</h2>
+      <br>
+
+     
+      
+      <h2> Comment commandé ? </h2>
+      <br>
+      <h3>Viens sur un de mes reseaux et passe commandes en privé. </h3>
+      <br>
+      <h3> Pour retrouver mes résaux clique </h3>
+      <h1><a href="webnono.html">ICI !</a> </h1>
+    </div>
+  </body>
+</html>

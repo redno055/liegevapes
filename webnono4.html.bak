@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>lg.vape</title>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+  	<div id="carte">
+
+
+
+
+<h1> Produits et accesoires: </h1>
+ <p> cliques sur les titres pour acceder à la catégorie que tu veux !</p><br>
+      
+<a href="webnono5.html"><h2><span class="encadrer-un-contenu">les e-liquides :</span> </h2>  
+        <center> <img style="width: 215px; height: 216px;" src="https://www.lepetitvapoteur.com/img/cms/images/Site/Accessoires/Flacon%20Unicorn%20Chubby%20Gorilla%20120%20ml/detail.jpg">
+        </center><br>
+
+
+<a href="webnono6.html"><h2><span class="encadrer-un-contenu">les résistances / batterie "accus" :</span> </h2>  
+        <center> <img style="width: 215px; height: 216px;" src="https://adns-grossiste.fr/img/cms/grossiste-ecig/Proposer-la-gamme-compl%C3%A8te-du-mat%C3%A9riel-de-vape-1200x630.jpg">
+        </center><br>
+
+
+
+
+      
+     
+
+
+
+
+
+
+  		</div>
+
+
+  </body>
+
+
+
+
+
+  </html>

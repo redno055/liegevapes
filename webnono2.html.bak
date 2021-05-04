@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <title>lg.vape</title>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body>
+
+  	<div id="carte">
+<h1> SHOP </h1> <br>
+<h2> VAPES : </h2> <p> clic sur l'image pour acceder aux vapes !</p> <br> 
+<a href="webnono3.html"> <center> <img style="width: 215px; height: 143px;" src="https://beebee.eu/wp-content/uploads/4812/iqos-ou-cigarette-electronique-5eca75beb1d38.jpg"> </center>
+ </a>
+<h2> produits et accesoires: </h2> <p> clic sur l'image pour acceder à la suite !</p> <br> 
+<a href="webnono3.html"> <center> <img style="width: 215px; height: 143px;" src="https://www.lepetitvapoteur.com/img/cms/images/Site/Accessoires/Flacon%20Unicorn%20Chubby%20Gorilla%20120%20ml/detail.jpg"> </center>
+ </a>
+
+  	</div>
+
+
+  </body>
+
+
+
+
+
+  </html>
